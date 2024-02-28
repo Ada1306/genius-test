@@ -1,0 +1,50 @@
+@import './utils/fonts';
+@import './utils/variables';
+@import './base';
+@import './utils/utils';
+
+@import './components/buttons';
+@import './components/header';
+@import './components/hero-section';
+@import './components/links';
+@import './components/advantages-section';
+@import './components/traditions-section';
+@import './components/chefs-section';
+@import './components/formats-section';
+@import './components/carousel';
+@import './components/contact-section';
+@import './components/footer';
+@import './components/modal';
+@import './components/form';
+
+@import './utils/mixins';
+@import './utils/section';
+@import './utils/container';
+
+/* .checkbox {
+    position: relative;
+}
+
+.checkbox-input {
+    appearance: none;
+}
+
+.checkbox-input:checked + .checkbox-label::before {
+    background-color: var(--color-secondary-dark);
+}
+
+.checkbox-label {
+    padding: 24px;
+}
+
+.checkbox-label::before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 16px;
+    height: 16px;
+    margin-top: 5px;
+    border: 1px solid var(--color-primary-dark);
+    border-radius: 2px;
+    content: '';
+} */
